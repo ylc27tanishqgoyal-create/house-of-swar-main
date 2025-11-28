@@ -54,7 +54,6 @@ export const Login: React.FC<LoginProps> = ({ onLogin }) => {
       <div className="grain-overlay"></div>
       {/* Background Ambience */}
       <div className="absolute inset-0 z-0">
-
         {/* Updated Gradient for Green Theme #00472d */}
         <div className="absolute inset-0 bg-gradient-to-t from-midnight via-midnight/90 to-midnight/50"></div>
       </div>
